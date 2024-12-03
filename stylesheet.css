@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'C3nwl';
+    src: url('C3nwlBlack-Regular.woff2') format('woff2'),
+        url('C3nwlBlack-Regular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'C3nwl';
+    src: url('C3nwlMedium-Regular.woff2') format('woff2'),
+        url('C3nwlMedium-Regular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'C3nwl';
+    src: url('C3nwlBold-Regular.woff2') format('woff2'),
+        url('C3nwlBold-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'C3nwl';
+    src: url('C3nwlThin-Regular.woff2') format('woff2'),
+        url('C3nwlThin-Regular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'C3nwl';
+    src: url('C3nwlLight-Regular.woff2') format('woff2'),
+        url('C3nwlLight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'C3nwl';
+    src: url('C3nwl-Regular.woff2') format('woff2'),
+        url('C3nwl-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
